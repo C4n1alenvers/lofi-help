@@ -3,6 +3,7 @@ voici le **HELP** du bot lofi (*discord*)
 
 # lofi-help-live
 **liste des commande lives**
+
 *il faut ecrire ça apres la commande si dessus (ex : §lofi l1)*
 
 * l1 =
