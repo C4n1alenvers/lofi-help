@@ -1,2 +1,5 @@
 # lofi-help
-[![logo bot lofi](https://i.imgur.com/LPgEymm.png)](url vers une page)] help du bot lofi
+voici le **HELP** du bot lofi (*discord*)
+
+# lofi-help-live
+**liste des commande lives**
