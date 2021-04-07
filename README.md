@@ -1,6 +1,14 @@
 # lofi-help
 voici le **HELP** du bot lofi (*discord*)
 
+le prefix du bot est §
+
+pour chaque commande il faut mettre d'abord lofi  ex : §lofi l1
+
+il y a 4 grandes commande 
+
+numero 1 : le help (§lofi help) qui vous permette d'acceder à cette page 
+
 # lofi-help-live
 **liste des commande lives**
 
