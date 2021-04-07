@@ -12,7 +12,7 @@ pour chaque commande il faut mettre d'abord lofi  ex : §lofi l1
 
 il y a 6 grandes commande 
 
- - numero 1 : le help (§lofi help) qui vous permette d'acceder à cette page 
+ - numero 1 : le help (§lofi help) qui vous permet d'acceder à cette page 
  
  - numero 2 : le lien (§lofi lien) qui vous permet d'avoir le lien d'invitation du bot (qui est celui-ci : https://discord.com/api/oauth2/authorize?client_id=825800891487092736&permissions=0&scope=bot)
  
